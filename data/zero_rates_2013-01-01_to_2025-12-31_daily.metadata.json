@@ -1,0 +1,11 @@
+{
+  "source": "https://www.ccilindia.com/zero-rates",
+  "start_date": "2013-01-01",
+  "end_date": "2025-12-31",
+  "calendar_days_processed": 4748,
+  "trading_days_captured": 3136,
+  "errors": {},
+  "generated_at_utc": "20260314T043740Z",
+  "latest_file": "data/zero_rates_2013-01-01_to_2025-12-31_daily.csv",
+  "version_file": "data/versions/20260314T043740Z/zero_rates_2013-01-01_to_2025-12-31_daily.csv"
+}
